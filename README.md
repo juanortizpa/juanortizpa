@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hola, soy Juan Pablo Ortiz
 
-<!--
-**juanortizpa/juanortizpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de Ingeniería en Sistemas  
+🚀 Desarrollador Junior enfocado en software y soluciones tecnológicas  
+🤖 Interesado en Inteligencia Artificial y automatización con agentes  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías
+
+- Java (principal)
+- Python
+- C++
+- HTML, CSS, JavaScript
+- GitHub
+
+---
+
+## 📌 Proyectos Destacados
+
+### 🧾 Sistema de Inventario para Ferretería
+Aplicación desarrollada para el control de productos, stock y procesos internos.
+
+### 🌐 Portal Web de Soluciones Tecnológicas
+Aplicación web orientada a ofrecer servicios tecnológicos.
+
+---
+
+## 📫 Contacto
+📧 juan.ortizpa1412@gmail.com
